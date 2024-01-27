@@ -26,6 +26,7 @@ The pyramid increases by one number per line, like so:
 ```
 
 The key to decoding the message is to use the words corresponding to the numbers at the end of each pyramid line (in this example, 1, 3, and 6).
+> Note that for this test, the message found may not make sense
 
 You should ignore all the other words. So for the example input file above, the message words are:
 
